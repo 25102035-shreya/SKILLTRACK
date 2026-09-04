@@ -1,0 +1,6 @@
+{
+  "name": "SkillTrack",
+  "description": "Student placement readiness calculator, career skill gap analyzer, and what-if simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
