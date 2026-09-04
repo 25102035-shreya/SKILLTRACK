@@ -4,6 +4,8 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
+  plugins:[react()],
+  base:'/SKILLTRACK/',
   return {
     base: '/skilltrack/',
     plugins: [react(), tailwindcss()],
